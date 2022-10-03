@@ -8,4 +8,4 @@ using html , css , bootstrap5 , JavaScript and jQuery.
 
 
 ## project link
-https://abdelrahmanelprince.github.io/CRUDS/
+https://abdelrahmanelprince.github.io/Party/
